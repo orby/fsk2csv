@@ -27,7 +27,7 @@ Run the script with the input .fsk file and the desired output CSV file as argum
 `python map-fsk-to-csv.py <input_file> <output_file>`
 
 ### Example:
-`python fsk_to_csv.py passwords.fsk apple_passwords.csv`
+`python map-fsk-to-csv.py passwords.fsk apple_passwords.csv`
 
 ### Input Format:
 
